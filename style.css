@@ -266,6 +266,7 @@ body{
 .footer{
    background-color: #DBDBDB;
    opacity: 0.90;
+   height: 400px;
 }
 .otro-logo{
    display: flex;
@@ -286,6 +287,7 @@ body{
    margin-top: 90px;
    margin-left:20px;
    gap: 37px;
+   margin: 50px 20px 53px
 }
 
 .instagram, .linkedin, .github{
